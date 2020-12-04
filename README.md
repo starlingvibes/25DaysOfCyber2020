@@ -17,3 +17,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1334425235161030657?s=20)</b>
 
 <img src="./exploitdb.png"></p>
+
+### Day 4
+<b>[Description](https://twitter.com/Starlingvibe/status/1334874195986165768?s=20)</b>
+
+<img src="./pythonspawn.png"></p>
