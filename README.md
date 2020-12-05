@@ -22,3 +22,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1334874195986165768?s=20)</b>
 
 <img src="./pythonspawn.png"></p>
+
+### Day 5
+<b>[Description](https://twitter.com/Starlingvibe/status/1335151775167488000?s=20)</b>
+
+<img src="./binarydatadecode.png"></p>
