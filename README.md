@@ -27,3 +27,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1335151775167488000?s=20)</b>
 
 <img src="./binarydatadecode.png"></p>
+
+### Day 6
+<b>[Description](https://twitter.com/Starlingvibe/status/1335632817938706435?s=20)</b>
+
+<img  src="./octal2ascii.png"></p>
