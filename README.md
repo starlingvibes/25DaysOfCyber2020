@@ -32,3 +32,13 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1335632817938706435?s=20)</b>
 
 <img  src="./octal2ascii.png"></p>
+
+### Day 7
+<b>[Description](https://twitter.com/Starlingvibe/status/1335984971987775491?s=20)</b> 
+
+<img src="./hex2ascii.png"></p>
+
+### Day 8
+<b>[Description](https://twitter.com/Starlingvibe/status/1336387545085718529?s=20)</b>
+
+<img src="./base32decode.png"></p>
