@@ -42,3 +42,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1336387545085718529?s=20)</b>
 
 <img src="./base32decode.png"></p>
+
+### Day 9
+<b>[Description}(https://twitter.com/Starlingvibe/status/1336613176260104192?s=20)</b>
+
+<img src="./base64decode.png"></p>
