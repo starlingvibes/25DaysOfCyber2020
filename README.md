@@ -52,3 +52,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1337028132155633664?s=20)</b>
 
 <img src="./ttysessions.png"></p>
+
+### Day 11
+<b>[Description](https://twitter.com/Starlingvibe/status/1337396384694153216?s=20)</b>
+
+<img src="./sudolist.png"></p>
