@@ -57,3 +57,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1337396384694153216?s=20)</b>
 
 <img src="./sudolist.png"></p>
+
+### Day 12
+<b>[Description](https://twitter.com/Starlingvibe/status/1337777239514116099?s=20)</b>
+
+<img src="./suidbinary.png"></p>
