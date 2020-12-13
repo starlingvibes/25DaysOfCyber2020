@@ -62,3 +62,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1337777239514116099?s=20)</b>
 
 <img src="./suidbinary.png"></p>
+
+### Day 13
+<b>[Description](https://twitter.com/Starlingvibe/status/1338103345391804416?s=20)</b>
+
+<img src="./dockerprivesc.png"></p>
