@@ -67,3 +67,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1338103345391804416?s=20)</b>
 
 <img src="./dockerprivesc.png"></p>
+
+### Day 14
+<b>[Description](https://twitter.com/Starlingvibe/status/1338383661306155008?s=20)</b>
+
+<img src="./sudounderflow.png"></p>
