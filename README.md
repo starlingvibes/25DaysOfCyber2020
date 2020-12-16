@@ -77,3 +77,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1338746569265467393?s=20)</b>
 
 <img src="./lxcprivesc.png"></p>
+
+### Day 16
+<b>[Description](https://twitter.com/Starlingvibe/status/1339242564571041795?s=20)</b>
+
+<img src="./concatenate.png"></p>
