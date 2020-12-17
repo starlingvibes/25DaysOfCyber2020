@@ -82,3 +82,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1339242564571041795?s=20)</b>
 
 <img src="./concatenate.png"></p>
+
+### Day 17
+<b>[Description](https://twitter.com/Starlingvibe/status/1339661491818147842?s=20)</b>
+
+<img src="./tac.png"></p>
