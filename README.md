@@ -92,3 +92,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1339975725034704896?s=20)</b>
 
 <img src="./rebuildhex.png"></p>
+
+### Day 19
+<b>[Description](https://twitter.com/Starlingvibe/status/1340226859183861760?s=20)</b>
+
+<img src="./hashing.png"></p>
