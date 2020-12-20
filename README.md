@@ -97,3 +97,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1340226859183861760?s=20)</b>
 
 <img src="./hashing.png"></p>
+
+### Day 20
+<b>[Description](https://twitter.com/Starlingvibe/status/1340713255946338304?s=20)</b>
+
+<img src="./md5collision.png"></p>
