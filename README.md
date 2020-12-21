@@ -102,3 +102,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1340713255946338304?s=20)</b>
 
 <img src="./md5collision.png"></p>
+
+### Day 21
+<b>[Description](https://twitter.com/Starlingvibe/status/1341106460978253824?s=20)</b>
+
+<img src="./wcount.png"></p>
