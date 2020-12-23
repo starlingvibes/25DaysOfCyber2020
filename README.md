@@ -107,3 +107,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1341106460978253824?s=20)</b>
 
 <img src="./wcount.png"></p>
+
+### Day 22
+<b>[Description](https://twitter.com/Starlingvibe/status/1341681665886855168?s=20)</b>
+
+<img src="./hexbytes.png"></p>
