@@ -117,3 +117,8 @@
 <b>[Description](https://twitter.com/Starlingvibe/status/1341681665886855168?s=20)</b>
 
 <img src="./hexbytes.png"></p>
+
+### Day 24
+<b>[Description](https://twitter.com/Starlingvibe/status/1342038485759352832?s=20)</b>
+
+<img src="./lincut.png"></p>
